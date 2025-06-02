@@ -9,4 +9,4 @@ This project started with detail understanding about the problem statement and h
 
 
 check out the Live dashboard by following the link below🔗
-https://app.powerbi.com/links/gwIvtZMqBn?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiOGMxNWVjODQtODAxYy00MGY1LTk3ZjAtYzgyOTYyN2Y0MWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
